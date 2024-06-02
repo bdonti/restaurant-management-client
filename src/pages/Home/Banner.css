@@ -1,0 +1,15 @@
+.banner-container {
+    width: 100% !important;
+  }
+  
+  .carousel {
+    width: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+  }
+  
+  .carousel img {
+    width: 100% !important;
+    height: auto !important;
+  }
+  

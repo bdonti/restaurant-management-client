@@ -1,0 +1,63 @@
+[
+    {
+      "recipeName": "Margherita Pizza",
+      "category": "Pizza",
+      "price": 12.99,
+      "recipeDetails": "Classic Margherita pizza with tomato sauce, mozzarella cheese, and fresh basil."
+    },
+    {
+      "recipeName": "Chocolate Lava Cake",
+      "category": "Dessert",
+      "price": 6.50,
+      "recipeDetails": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream."
+    },
+    {
+      "recipeName": "Tomato Basil Soup",
+      "category": "Soup",
+      "price": 5.99,
+      "recipeDetails": "Smooth and creamy tomato soup with fresh basil and a hint of garlic."
+    },
+    {
+      "recipeName": "Mojito",
+      "category": "Drinks",
+      "price": 8.00,
+      "recipeDetails": "Refreshing cocktail made with white rum, sugar, lime juice, soda water, and mint."
+    },
+    {
+      "recipeName": "Caesar Salad",
+      "category": "Salad",
+      "price": 7.99,
+      "recipeDetails": "Crisp romaine lettuce with Caesar dressing, croutons, and Parmesan cheese."
+    },
+    {
+      "recipeName": "Pepperoni Pizza",
+      "category": "Pizza",
+      "price": 14.99,
+      "recipeDetails": "Pizza topped with tomato sauce, mozzarella cheese, and spicy pepperoni slices."
+    },
+    {
+      "recipeName": "Tiramisu",
+      "category": "Dessert",
+      "price": 7.50,
+      "recipeDetails": "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cheese."
+    },
+    {
+      "recipeName": "Chicken Noodle Soup",
+      "category": "Soup",
+      "price": 6.99,
+      "recipeDetails": "Hearty soup with tender chicken, noodles, carrots, and celery in a savory broth."
+    },
+    {
+      "recipeName": "Strawberry Smoothie",
+      "category": "Drinks",
+      "price": 5.50,
+      "recipeDetails": "Blended drink made with fresh strawberries, yogurt, and a touch of honey."
+    },
+    {
+      "recipeName": "Greek Salad",
+      "category": "Salad",
+      "price": 8.99,
+      "recipeDetails": "Salad with cucumbers, tomatoes, olives, feta cheese, and a light vinaigrette."
+    }
+  ]
+  
